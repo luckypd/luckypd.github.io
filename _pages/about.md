@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>MBC, Yonsei Univ.</p>
     <p>Sungam-ro 267, Mapo-gu</p>
-    <p>Seoul, Republic of Korea, 03925</p>
+    <p>Seoul, Republic of Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+방송사에서 미디어 환경 분석과 정책 설계를 담당하며, 현장의 고민을 미디어·커뮤니케이션 연구로 확장하고 있습니다. 최근에는 읽고 쓰는 삶을 넘어 AI 기술의 실용적 활용에 깊은 관심을 두고 공부 중입니다.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+실용성을 추구하되 본질적인 원칙과 가치를 타협하지 않으려 노력합니다. '이왕 할 거면 제대로'라는 마음가짐으로 배움의 깊이를 더해가는 과정을 즐깁니다.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+일상에서는 가족과 함께하는 시간을 가장 소중히 여기며, 최근 시작한 달리기와 클래식 음악, 그리고 요리를 통해 삶의 리듬을 만들어가고 있습니다. 언제나 마음 한구석엔 다음 여행을 꿈꾸는 여행자의 마음을 품고 삽니다.
+
+Working in the broadcasting industry, I analyze media ecosystems and shape institutional policies. My professional journey is deeply integrated with academic research in Media and Communications. I am currently expanding my horizons through rigorous reading and writing, with a particular focus on mastering AI and its practical applications.
+
+I value practicality but never at the expense of core principles. My philosophy is simple: "If it's worth doing, it's worth doing right."
+
+Beyond my professional life, I am a family man who finds joy in the rhythm of running, the depth of classical music, and the art of cooking. I remain a perennial dreamer of the next great journey.
