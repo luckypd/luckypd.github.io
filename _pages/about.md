@@ -9,7 +9,7 @@ profile:
   image: prof_pic1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>MBC, Yonsei Univ.</p>
+    <p>MBC</p>
     <p>Sungam-ro 267, Mapo-gu</p>
     <p>Seoul, Republic of Korea</p>
 
