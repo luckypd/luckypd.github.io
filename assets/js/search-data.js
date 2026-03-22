@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-linear-algebra-01",
+        
+          title: "Linear Algebra 01",
+        
+        description: "선형대수 학습 노트1",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Linear-Algebra-01/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
