@@ -24,7 +24,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/Linear-Algebra-01/";
+            window.location.href = "/blog/2026/Linear-Algebra/";
           
         },
       },{id: "post-a-post-with-plotly-js",
