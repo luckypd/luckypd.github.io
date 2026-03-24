@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-linear-algebra-01",
+        },{id: "post-일본어-ん-발음",
+        
+          title: "일본어 ん 발음",
+        
+        description: "일본어 학습",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/%EC%9D%BC%EB%B3%B8%EC%96%B4-%E3%82%93-%EB%B0%9C%EC%9D%8C/";
+          
+        },
+      },{id: "post-linear-algebra-01",
         
           title: "Linear Algebra 01",
         
