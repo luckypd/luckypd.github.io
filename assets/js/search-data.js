@@ -16,15 +16,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-pd되기-완전-정복-1-열정의-포트폴리오를-만들어라",
+        },{id: "post-pd되기-완전-정복-2-자기소개서-작성법",
         
-          title: "PD되기 완전 정복 1 열정의 포트폴리오를 만들어라",
+          title: "PD되기 완전 정복 2 자기소개서 작성법",
         
         description: "일본어 학습",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/PD%EB%90%98%EA%B8%B0%EC%99%84%EC%A0%84%EC%A0%95%EB%B3%B51/";
+            window.location.href = "/blog/2026/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C-%EC%9E%91%EC%84%B1%EB%B2%95/";
+          
+        },
+      },{id: "post-pd되기-완전-정복-1-서류전형-준비",
+        
+          title: "PD되기 완전 정복 1 서류전형 준비",
+        
+        description: "일본어 학습",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/%EC%84%9C%EB%A5%98%EC%A0%84%ED%98%95-%EC%A4%80%EB%B9%84/";
           
         },
       },{id: "post-일본어-ん-발음",
