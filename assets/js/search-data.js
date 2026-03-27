@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-일본어-ん-발음",
+        },{id: "post-pd되기-완전-정복-1-열정의-포트폴리오를-만들어라",
+        
+          title: "PD되기 완전 정복 1 열정의 포트폴리오를 만들어라",
+        
+        description: "일본어 학습",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/PD%EB%90%98%EA%B8%B0%EC%99%84%EC%A0%84%EC%A0%95%EB%B3%B51/";
+          
+        },
+      },{id: "post-일본어-ん-발음",
         
           title: "일본어 ん 발음",
         
