@@ -4,7 +4,7 @@ title: Linear Algebra 01
 date: 2026-03-19 15:50:00-0900
 description: 선형대수 학습 노트1
 tags: formatting math
-categories: sample-posts
+categories: math
 related_posts: true
 ---
 
