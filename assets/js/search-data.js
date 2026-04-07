@@ -49,6 +49,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/%EC%9D%BC%EB%B3%B8%EC%96%B4-%E3%82%93-%EB%B0%9C%EC%9D%8C/";
           
         },
+      },{id: "post-linear-algebra-02",
+        
+          title: "Linear Algebra 02",
+        
+        description: "선형대수 학습 노트2",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Linear-Algebra-02/";
+          
+        },
       },{id: "post-linear-algebra-01",
         
           title: "Linear Algebra 01",
@@ -57,7 +68,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/Linear-Algebra/";
+            window.location.href = "/blog/2026/Linear-Algebra-01/";
           
         },
       },{id: "post-a-post-with-plotly-js",
