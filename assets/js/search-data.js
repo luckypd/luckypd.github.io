@@ -20,7 +20,7 @@ ninja.data = [{
         
           title: "PD되기 완전 정복 2 자기소개서 작성법",
         
-        description: "일본어 학습",
+        description: "PD되기",
         section: "Posts",
         handler: () => {
           
@@ -31,7 +31,7 @@ ninja.data = [{
         
           title: "PD되기 완전 정복 1 서류전형 준비",
         
-        description: "일본어 학습",
+        description: "PD되기",
         section: "Posts",
         handler: () => {
           
