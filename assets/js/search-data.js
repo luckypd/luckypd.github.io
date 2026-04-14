@@ -38,6 +38,39 @@ ninja.data = [{
             window.location.href = "/blog/2026/%EC%84%9C%EB%A5%98%EC%A0%84%ED%98%95-%EC%A4%80%EB%B9%84/";
           
         },
+      },{id: "post-내적-dot-product",
+        
+          title: "내적(Dot Product)",
+        
+        description: "선형대수 학습 노트 06",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/linear-algebra-06/";
+          
+        },
+      },{id: "post-05-선형-방정식의-기하학적-해석-the-geometry-of-linear-equations",
+        
+          title: "05 선형 방정식의 기하학적 해석 (The Geometry of Linear Equations)",
+        
+        description: "선형대수 학습 노트 05",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/linear-algebra-05/";
+          
+        },
+      },{id: "post-04-행렬-matrix",
+        
+          title: "04 행렬(Matrix)",
+        
+        description: "선형대수 학습 노트 04",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/linear-algebra-04/";
+          
+        },
       },{id: "post-일본어-ん-발음",
         
           title: "일본어 ん 발음",
@@ -47,6 +80,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/%EC%9D%BC%EB%B3%B8%EC%96%B4-%E3%82%93-%EB%B0%9C%EC%9D%8C/";
+          
+        },
+      },{id: "post-03-차원-좌표계-기저",
+        
+          title: "03 차원, 좌표계, 기저",
+        
+        description: "선형대수 학습 노트 03",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/linear-algebra-03/";
           
         },
       },{id: "post-linear-algebra-02",
