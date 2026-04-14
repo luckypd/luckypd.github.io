@@ -93,22 +93,22 @@ ninja.data = [{
             window.location.href = "/blog/2026/linear-algebra-03/";
           
         },
-      },{id: "post-linear-algebra-02",
+      },{id: "post-02-스칼라-scaler-와-벡터-vector",
         
-          title: "Linear Algebra 02",
+          title: "02 스칼라(Scaler)와 벡터(Vector)",
         
-        description: "선형대수 학습 노트2",
+        description: "선형대수 학습 노트 02",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2026/Linear-Algebra-02/";
           
         },
-      },{id: "post-linear-algebra-01",
+      },{id: "post-01-선형대수의-개념",
         
-          title: "Linear Algebra 01",
+          title: "01 선형대수의 개념",
         
-        description: "선형대수 학습 노트1",
+        description: "선형대수 학습 노트 01",
         section: "Posts",
         handler: () => {
           
