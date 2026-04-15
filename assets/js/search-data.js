@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-pd되기-완전-정복-2-자기소개서-작성법",
+        },{id: "post-분산분석",
+        
+          title: "분산분석",
+        
+        description: "선형대수 학습 노트 19",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/linear-algebra-19/";
+          
+        },
+      },{id: "post-pd되기-완전-정복-2-자기소개서-작성법",
         
           title: "PD되기 완전 정복 2 자기소개서 작성법",
         
