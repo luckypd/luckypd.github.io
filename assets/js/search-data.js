@@ -16,18 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-morning-routine",
-        
-          title: "Morning Routine",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/morning-routine/";
-          
-        },
-      },{id: "post-분산분석",
+        },{id: "post-분산분석",
         
           title: "분산분석",
         
