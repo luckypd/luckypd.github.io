@@ -16,18 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-분산분석-test",
-        
-          title: "분산분석(test)",
-        
-        description: "선형대수 학습 노트 19",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/test/";
-          
-        },
-      },{id: "post-today-39-s-morning-wrap-up",
+        },{id: "post-today-39-s-morning-wrap-up",
         
           title: "Today&#39;s Morning Wrap-up",
         
